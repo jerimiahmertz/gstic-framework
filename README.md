@@ -1,7 +1,7 @@
-GSTIC Strategic Planning Framework
+## GSTIC Strategic Planning Framework
 A structured framework for developing comprehensive business and product strategies, designed to run interactively via Claude Code.
 
-What is GSTIC?
+# What is GSTIC?
 GSTIC is a five-phase strategic planning methodology:
 
 Phase	Focus	Key Question
