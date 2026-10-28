@@ -61,7 +61,7 @@ Define the target audience, value proposition, and competitive positioning. Grou
 ### Output Requirements
 - Target Segment Profiles (1-3 segments, prioritized)
 - Value Proposition per segment
-- Positioning Statement
+- Positioning Statement, plus the tradeoff — what you're choosing NOT to be
 - Competitive Landscape Summary (2x2 or comparison table)
 - Strategic Risks and Assumptions (what must be true for this strategy to work)
 

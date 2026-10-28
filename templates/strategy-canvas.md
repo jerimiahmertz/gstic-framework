@@ -32,7 +32,7 @@
 
 ## Value Proposition
 
-### Jobs-to-Be-Done
+### Primary Segment: [Segment Name]
 
 | Job Type | Job Statement | Importance | Satisfaction (Current) |
 |----------|--------------|------------|----------------------|
@@ -40,8 +40,23 @@
 | Emotional | [How they want to feel] | High/Med/Low | High/Med/Low |
 | Social | [How they want to be perceived] | High/Med/Low | High/Med/Low |
 
-### Value Proposition Statement
-**For** [target segment], **who** [need/job], **our** [product/initiative] **is a** [category] **that** [key benefit]. **Unlike** [alternatives], **we** [key differentiator].
+- **Pains we relieve:** [Top pains from the segment profile, and how we address each]
+- **Gains we create:** [Outcomes this segment wants that we deliver]
+- **Value proposition:** [One sentence: what this segment gets, and why it beats their current alternative]
+
+### Secondary Segment: [Segment Name]
+
+- **Value proposition:** [One sentence. Add a Jobs-to-Be-Done table if this segment's jobs differ from the primary segment's.]
+
+---
+
+## Positioning
+
+### Positioning Statement
+**For** [primary segment], **who** [need/job], **our** [product/initiative] **is a** [category] **that** [key benefit]. **Unlike** [alternatives], **we** [key differentiator].
+
+### Tradeoff — What We're Choosing Not to Be
+[The customers, features, or positions we deliberately give up to make this positioning work]
 
 ---
 
@@ -49,10 +64,10 @@
 
 ### Positioning Matrix
 
-|  | [Dimension A] → | [Dimension A] → |
-|--|-----------------|-----------------|
-| **[Dimension B] ↑** | [Competitor X] | [Our Position] |
-| **[Dimension B] ↓** | [Competitor Y] | [Competitor Z] |
+|  | ← Low [Dimension A] | High [Dimension A] → |
+|--|---------------------|----------------------|
+| **↑ High [Dimension B]** | [Competitor X] | [Our Position] |
+| **↓ Low [Dimension B]** | [Competitor Y] | [Competitor Z] |
 
 ### Alternative Solutions Comparison
 

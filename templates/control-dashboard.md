@@ -12,36 +12,40 @@
 |-------|-------|
 | **Metric** | [The single metric that best captures value delivery] |
 | **Definition** | [Exact calculation / formula] |
-| **Current Baseline** | [Current value] |
-| **Target** | [Goal value + timeline] |
 | **Source** | [Data system / tool] |
 | **Owner** | [Person] |
+| **Baseline** | [Current value] |
+| **Target** | [Goal value + timeline] |
+| **Cadence** | [How often it's reviewed] |
+| **Action Trigger** | [What value triggers a response, and what response] |
 
 ---
 
 ## Metric Framework
 
+Every metric carries the same fields as the North Star. For health and counter-metrics, the target is an acceptable range.
+
 ### Input Metrics (Leading Indicators)
 
-| Metric | Definition | Source | Baseline | Target | Owner | Cadence |
-|--------|-----------|--------|----------|--------|-------|---------|
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+| Metric | Definition | Source | Owner | Baseline | Target | Cadence | Action Trigger |
+|--------|-----------|--------|-------|----------|--------|---------|----------------|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
 ### Health Metrics (Guardrails)
 
-| Metric | Definition | Acceptable Range | Alert Threshold | Source | Owner |
-|--------|-----------|-----------------|-----------------|--------|-------|
-| | | | | | |
-| | | | | | |
+| Metric | Definition | Source | Owner | Baseline | Acceptable Range | Cadence | Action Trigger |
+|--------|-----------|--------|-------|----------|-----------------|---------|----------------|
+| | | | | | | | |
+| | | | | | | | |
 
 ### Counter-Metrics (Watching for Harm)
 
-| Metric | Definition | Why It Matters | Alert Threshold | Source | Owner |
-|--------|-----------|---------------|-----------------|--------|-------|
-| | | | | | |
-| | | | | | |
+| Metric | Definition | Why It Matters | Source | Owner | Baseline | Acceptable Range | Cadence | Action Trigger |
+|--------|-----------|---------------|--------|-------|----------|-----------------|---------|----------------|
+| | | | | | | | | |
+| | | | | | | | | |
 
 ---
 
@@ -90,13 +94,15 @@
 
 ---
 
-## Action Triggers
+## Escalation Paths
 
-| Metric | Threshold | Action | Escalation Path |
-|--------|----------|--------|----------------|
-| [Metric] | [Value/condition] | [Specific action to take] | [Team → PM → Exec] |
-| [Metric] | [Value/condition] | [Specific action] | [Escalation] |
-| [Metric] | [Value/condition] | [Specific action] | [Escalation] |
+Each metric's action trigger lives in its row above. This table says who responds first and when a breach moves from team → PM → exec.
+
+| Trigger | First Responder | Escalate to PM When | Escalate to Exec When |
+|---------|-----------------|---------------------|-----------------------|
+| [Metric + threshold] | [Person] | [Condition] | [Condition] |
+| [Metric + threshold] | [Person] | [Condition] | [Condition] |
+| [Metric + threshold] | [Person] | [Condition] | [Condition] |
 
 ---
 
@@ -120,7 +126,7 @@
 | North Star declining for 2+ weeks | Reconvene Strategy phase |
 | Input metric diverges from North Star | Investigate tactic effectiveness |
 | Counter-metric breached | Pause expansion, diagnose |
-| Phase milestone missed by >2 weeks | Reassess Implementation plan |
+| Stage milestone missed by >2 weeks | Reassess Implementation plan |
 
 ---
 

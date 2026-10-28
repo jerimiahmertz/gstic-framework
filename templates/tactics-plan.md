@@ -8,35 +8,37 @@
 
 ## Marketing & Product Mix
 
+One table per dimension. If a dimension doesn't apply, keep its heading and write `N/A — [reason]` in place of the table. Priority is High / Med / Low.
+
 ### Product
-| Tactic | Description | Rationale | Strategic Link | Priority |
-|--------|-------------|-----------|----------------|----------|
-| [Tactic] | [What we build/modify] | [Why this delivers value] | [Which strategic choice] | P0/P1/P2 |
-| | | | | |
+| Tactic | Description | Rationale | Strategic Link | Owner | Priority |
+|--------|-------------|-----------|----------------|-------|----------|
+| [Tactic] | [What we build/modify, including service and support] | [Why this delivers value] | [Which strategic choice] | [Person or TBD] | High/Med/Low |
+| | | | | | |
 
 ### Price
-| Tactic | Description | Rationale | Strategic Link | Priority |
-|--------|-------------|-----------|----------------|----------|
-| [Tactic] | [Pricing model/change] | [Why this structure] | [Which strategic choice] | P0/P1/P2 |
-| | | | | |
+| Tactic | Description | Rationale | Strategic Link | Owner | Priority |
+|--------|-------------|-----------|----------------|-------|----------|
+| [Tactic] | [Pricing model/change] | [Why this structure] | [Which strategic choice] | [Person or TBD] | High/Med/Low |
+| | | | | | |
 
 ### Incentives
-| Tactic | Description | Rationale | Strategic Link | Priority |
-|--------|-------------|-----------|----------------|----------|
-| [Tactic] | [Adoption driver] | [Why this accelerates uptake] | [Which strategic choice] | P0/P1/P2 |
-| | | | | |
+| Tactic | Description | Rationale | Strategic Link | Owner | Priority |
+|--------|-------------|-----------|----------------|-------|----------|
+| [Tactic] | [Adoption driver] | [Why this accelerates uptake] | [Which strategic choice] | [Person or TBD] | High/Med/Low |
+| | | | | | |
 
 ### Communication
-| Tactic | Description | Rationale | Strategic Link | Priority |
-|--------|-------------|-----------|----------------|----------|
-| [Tactic] | [Messaging/channel] | [Why this reaches target] | [Which strategic choice] | P0/P1/P2 |
-| | | | | |
+| Tactic | Description | Rationale | Strategic Link | Owner | Priority |
+|--------|-------------|-----------|----------------|-------|----------|
+| [Tactic] | [Messaging, channel, or brand] | [Why this reaches target] | [Which strategic choice] | [Person or TBD] | High/Med/Low |
+| | | | | | |
 
 ### Distribution
-| Tactic | Description | Rationale | Strategic Link | Priority |
-|--------|-------------|-----------|----------------|----------|
-| [Tactic] | [Delivery mechanism] | [Why this channel] | [Which strategic choice] | P0/P1/P2 |
-| | | | | |
+| Tactic | Description | Rationale | Strategic Link | Owner | Priority |
+|--------|-------------|-----------|----------------|-------|----------|
+| [Tactic] | [Delivery mechanism] | [Why this channel] | [Which strategic choice] | [Person or TBD] | High/Med/Low |
+| | | | | | |
 
 ---
 
@@ -53,6 +55,8 @@
 ## Prioritization
 
 **Method Used:** [RICE / ICE / MoSCoW — state why this method fits]
+
+The table is set up for RICE (Score = Reach × Impact × Confidence ÷ Effort). For ICE, use Impact, Confidence, and Ease columns instead (Score = Impact × Confidence × Ease). For MoSCoW, replace the scoring columns with one Must / Should / Could / Won't column.
 
 | Tactic | Reach | Impact | Confidence | Effort | Score | Rank |
 |--------|-------|--------|------------|--------|-------|------|

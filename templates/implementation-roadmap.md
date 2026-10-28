@@ -6,12 +6,12 @@
 
 ---
 
-## Phased Roadmap
+## Roadmap by Stage
 
-### P0: Discovery & Validation
+### Stage 0: Discovery & Validation
 | Field | Detail |
 |-------|--------|
-| **Objective** | [What this phase proves] |
+| **Objective** | [What this stage proves] |
 | **Duration** | [Weeks/months] |
 | **Dates** | [Start] → [End] |
 | **Entry Criteria** | [What must be true to begin] |
@@ -32,13 +32,13 @@
 
 ---
 
-### P1: MVP / Prototype
+### Stage 1: MVP / Prototype
 | Field | Detail |
 |-------|--------|
 | **Objective** | [Core value delivered] |
 | **Duration** | [Weeks/months] |
 | **Dates** | [Start] → [End] |
-| **Entry Criteria** | [P0 exit criteria met + ...] |
+| **Entry Criteria** | [Stage 0 exit criteria met + ...] |
 | **Exit Criteria** | [What must be true to advance] |
 | **Go/No-Go Decision** | [Decision criteria] |
 
@@ -56,13 +56,13 @@
 
 ---
 
-### P2: Scale
+### Stage 2: Scale
 | Field | Detail |
 |-------|--------|
 | **Objective** | [Expand reach, automate, optimize] |
 | **Duration** | [Weeks/months] |
 | **Dates** | [Start] → [End] |
-| **Entry Criteria** | [P1 exit criteria met + ...] |
+| **Entry Criteria** | [Stage 1 exit criteria met + ...] |
 | **Exit Criteria** | [What must be true to advance] |
 | **Go/No-Go Decision** | [Decision criteria] |
 
@@ -80,13 +80,13 @@
 
 ---
 
-### P3: Optimize & Expand
+### Stage 3: Optimize & Expand
 | Field | Detail |
 |-------|--------|
 | **Objective** | [Refine, expand use cases, build moat] |
 | **Duration** | [Weeks/months] |
 | **Dates** | [Start] → [End] |
-| **Entry Criteria** | [P2 exit criteria met + ...] |
+| **Entry Criteria** | [Stage 2 exit criteria met + ...] |
 | **Exit Criteria** | [Steady-state criteria] |
 
 **Deliverables:**
@@ -123,7 +123,7 @@ Critical Path: A → C → E
 
 ## Resource Requirements
 
-| Role / Skill | Phase | Effort (hrs/wk) | Source | Notes |
+| Role / Skill | Stage | Effort (hrs/wk) | Source | Notes |
 |-------------|-------|-----------------|--------|-------|
 | | | | Internal / Contract / Hire | |
 | | | | | |
@@ -144,12 +144,12 @@ Critical Path: A → C → E
 
 ## Key Milestones
 
-| Milestone | Date | Phase | Success Criteria |
+| Milestone | Date | Stage | Success Criteria |
 |-----------|------|-------|-----------------|
-| [Milestone 1] | | P0 | |
-| [Milestone 2] | | P1 | |
-| [Milestone 3] | | P2 | |
-| [Milestone 4] | | P3 | |
+| [Milestone 1] | | Stage 0 | |
+| [Milestone 2] | | Stage 1 | |
+| [Milestone 3] | | Stage 2 | |
+| [Milestone 4] | | Stage 3 | |
 
 ---
 
