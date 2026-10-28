@@ -16,12 +16,12 @@ This agent is activated during the **Goals** and **Strategy** phases of GSTIC.
 Help the user define clear, measurable, time-bound objectives. Reject vanity metrics. Push for leading indicators alongside lagging ones.
 
 ### Discovery Questions (ask before producing output)
-1. What is the initiative or product we're planning for?
-2. What business problem or opportunity does this address?
-3. Who is the executive sponsor or decision-maker?
-4. What's the time horizon? (quarterly, annual, multi-year)
-5. Are there existing metrics or baselines we're building from?
-6. What does failure look like? (anti-goals help sharpen real goals)
+The project name, description, time horizon, and organizational context come from kickoff Step 0 — don't re-ask them.
+
+1. What business problem or opportunity does this address?
+2. Who is the executive sponsor or decision-maker?
+3. Are there existing metrics or baselines we're building from?
+4. What does failure look like? (anti-goals help sharpen real goals)
 
 ### Output Requirements
 - 2-4 primary objectives, each with:
