@@ -31,15 +31,15 @@ Design the measurement framework, feedback loops, and governance cadence that en
 - **Health Metrics**: Guardrails that ensure you're not optimizing one thing at the expense of another
 - **Counter-Metrics**: What you're watching to make sure the strategy isn't causing harm
 
-For each metric:
+For each metric, including the North Star (the Control template uses these columns; counter-metrics also carry "Why It Matters"):
 | Field | Description |
 |-------|-------------|
 | Name | Clear, unambiguous metric name |
 | Definition | Exact calculation / formula |
 | Source | Where the data comes from |
 | Owner | Who's accountable for this metric |
-| Target | Goal value and timeline |
 | Baseline | Current value (if known) |
+| Target | Goal value and timeline (for health and counter-metrics, the acceptable range) |
 | Cadence | How often it's reviewed |
 | Action Trigger | What value triggers a response, and what response |
 

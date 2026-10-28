@@ -8,31 +8,31 @@
 
 ## 1. Goals
 
-[Paste completed Goals Worksheet content here]
+[Insert `output/<project-slug>/1-goals.md`]
 
 ---
 
 ## 2. Strategy
 
-[Paste completed Strategy Canvas content here]
+[Insert `output/<project-slug>/2-strategy.md`]
 
 ---
 
 ## 3. Tactics
 
-[Paste completed Tactics Plan content here]
+[Insert `output/<project-slug>/3-tactics.md`]
 
 ---
 
 ## 4. Implementation
 
-[Paste completed Implementation Roadmap content here]
+[Insert `output/<project-slug>/4-implementation.md`]
 
 ---
 
 ## 5. Control
 
-[Paste completed Control Dashboard content here]
+[Insert `output/<project-slug>/5-control.md`]
 
 ---
 
